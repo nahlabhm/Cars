@@ -7,7 +7,6 @@
 
 <table>
   <tr>
-
     <td><img src="https://github.com/nahlabhm/Cars/assets/49809803/35153b12-8e59-4e19-877f-97d7141dbd78" alt="Image 1"></td>
     <td><img src="https://github.com/nahlabhm/Cars/assets/49809803/37d1452d-e232-4193-bf4d-908c55b5680a" alt="Image 2"></td>
   </tr>
